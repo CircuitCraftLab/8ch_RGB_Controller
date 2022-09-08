@@ -1,5 +1,4 @@
 Record=TopLevelDocument|FileName=Top_Level.SchDoc|SheetNumber=1
-Record=SheetSymbol|SourceDocument=Top_Level.SchDoc|Designator=Analog|SchDesignator=Analog|FileName=Analog.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=Analog.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Top_Level.SchDoc|Designator=LED_CH_1|SchDesignator=LED_CH_1|FileName=LED_CH.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=LED_CH.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Top_Level.SchDoc|Designator=LED_CH_2|SchDesignator=LED_CH_2|FileName=LED_CH.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=LED_CH.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Top_Level.SchDoc|Designator=LED_CH_3|SchDesignator=LED_CH_3|FileName=LED_CH.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=LED_CH.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
