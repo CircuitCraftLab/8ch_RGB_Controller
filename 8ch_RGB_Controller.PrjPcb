@@ -83,7 +83,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JRPLFBIJ
 
 [Document3]
-DocumentPath=Driver.SchDoc
+DocumentPath=Shift Register.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -97,7 +97,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VPUOZWBT
+DocumentUniqueId=GFOJPBRJ
 
 [Document4]
 DocumentPath=LED_CH.SchDoc
@@ -166,23 +166,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MIDXVFFB
-
-[Document8]
-DocumentPath=8ch_RGB_Controller.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OEKPEVHD
 
 [Configuration1]
 Name=Sources
@@ -1211,10 +1194,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=CircuitCraftLab.DbLib/Resistors - Chip Resistor - Surface Mount
+ComponentDesignItemID0=WR06X1002FTL
+ComponentSymbolReference0=Resistor
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1228,6 +1217,59 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=ComponentLink1Description
+ParameterUpdate2=1
+ParameterName3=ComponentLink1URL
+ParameterUpdate3=1
+ParameterName4=Composition
+ParameterUpdate4=1
+ParameterName5=Description
+ParameterUpdate5=1
+ParameterName6=Failure Rate
+ParameterUpdate6=1
+ParameterName7=Features
+ParameterUpdate7=1
+ParameterName8=Height-Seated (Max)
+ParameterUpdate8=1
+ParameterName9=Library Reference
+ParameterUpdate9=1
+ParameterName10=Manufacturer
+ParameterUpdate10=1
+ParameterName11=Number of Terminations
+ParameterUpdate11=1
+ParameterName12=Operating Temperature
+ParameterUpdate12=1
+ParameterName13=Package
+ParameterUpdate13=1
+ParameterName14=Package/Case
+ParameterUpdate14=1
+ParameterName15=PartNumber
+ParameterUpdate15=1
+ParameterName16=Power (Watts)
+ParameterUpdate16=1
+ParameterName17=Product Status
+ParameterUpdate17=1
+ParameterName18=Ratings
+ParameterUpdate18=1
+ParameterName19=Resistance
+ParameterUpdate19=1
+ParameterName20=Series
+ParameterUpdate20=1
+ParameterName21=Size/Dimension
+ParameterUpdate21=1
+ParameterName22=Temperature Coefficient
+ParameterUpdate22=1
+ParameterName23=Tolerance
+ParameterUpdate23=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=RESC1608X06N
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
